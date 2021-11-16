@@ -1,0 +1,17 @@
+{
+  "name": "ejerciciomartes",
+  "version": "1.0.0",
+  "description": "Ejercicio Incremental 19",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "Gabriela Muñoz & Marcos Miranda",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
